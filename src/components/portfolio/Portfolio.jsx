@@ -13,18 +13,19 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Simple Calculator',
-    github: 'https://github.com/kenoict/Calculator-',
-    demo: 'https://calculator-lhwwg5d5i-kenoict.vercel.app/'
+    github: 'https://github.com/OnomeVera/Simple-Calculator.git',
+    demo: 'http://simple-calculator-tau-mauve.vercel.app/'
   },
 
   {
-    id: 3,
-    image: IMG3,
-    title: 'E-shop',
-    github: 'https://github.com/kenoict/my_final_year-project-webstack',
-    demo: 'http://kennoman.pythonanywhere.com/store'
+    id: 6,
+    image: IMG6,
+    title: 'Responsive Image Gallery',
+    github: 'https://github.com/OnomeVera/image-gallery.git',
+    demo: 'http://image-gallery-brown.vercel.app/'
   },
- 
+
+  
 ]
 
 const Portfolio = () => {
@@ -106,7 +107,11 @@ const Portfolio = () => {
              <div className="portfolio__item-image">
              <img src={image} alt={title} />
           </div>
-        
+          <h3>{title}</h3>
+          <div className="portfolio__item-cta">
+          <a href={github} className='btn' target='_blank'>Github</a>
+          <a href={demo} className='btn btn-primary' target='_blank'>Live demo</a>
+          </div>
         </article>
 
 
