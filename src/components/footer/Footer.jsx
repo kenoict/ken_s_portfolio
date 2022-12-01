@@ -20,7 +20,7 @@ const Footer = () => {
 
       <div className="footer__socials">
         <a href="https://web.facebook.com/mafabi.ken"><FaFacebookF/></a>
-        <a href="https://www.instagram.com/onome_kennedymafabi/"><FiInstagram/></a>
+        <a href="https://www.instagram.com/kennedymafabi/"><FiInstagram/></a>
         <a href="https://twitter.com/kenmafabi"><IoLogoTwitter/></a>
       </div>
 
