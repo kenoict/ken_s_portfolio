@@ -21,32 +21,32 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Infinite Image Gallery',
-    github: 'https://github.com/OnomeVera/infinite-scroll-image-gallery.git',
-    demo: 'http://infinite-scroll-image-gallery.vercel.app/'
+    github: 'https://github.com/kenoict/infinite-scroll-image-gallery',
+    demo: 'https://infinite-scroll-image-gallery-eta.vercel.app/'
   },
 
   {
     id: 4,
     image: IMG4,
     title: 'E-Product Page',
-    github: 'https://github.com/OnomeVera/e-product-page.git',
-    demo: 'http://e-product-page.vercel.app/'
+    github: 'https://github.com/kenoict/e-product-page',
+    demo: 'https://e-product-page-six.vercel.app/'
   },
 
   {
     id: 5,
     image: IMG5,
     title: 'Survey Form',
-    github: 'https://github.com/OnomeVera/survey-form.git',
-    demo: 'http://survey-form-pink.vercel.app/'
+    github: 'https://github.com/kenoict/survey-form',
+    demo: 'https://survey-form-rosy.vercel.app/'
   },
 
   {
     id: 6,
     image: IMG6,
     title: 'Responsive Image Gallery',
-    github: 'https://github.com/OnomeVera/image-gallery.git',
-    demo: 'http://image-gallery-brown.vercel.app/'
+    github: 'https://github.com/kenoict/Responsive_image_gallery',
+    demo: 'https://responsive-image-gallery-9x5n.vercel.app/'
   },
 
   
