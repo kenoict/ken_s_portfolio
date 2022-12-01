@@ -18,6 +18,30 @@ const data = [
   },
 
   {
+    id: 3,
+    image: IMG3,
+    title: 'Infinite Image Gallery',
+    github: 'https://github.com/OnomeVera/infinite-scroll-image-gallery.git',
+    demo: 'http://infinite-scroll-image-gallery.vercel.app/'
+  },
+
+  {
+    id: 4,
+    image: IMG4,
+    title: 'E-Product Page',
+    github: 'https://github.com/OnomeVera/e-product-page.git',
+    demo: 'http://e-product-page.vercel.app/'
+  },
+
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Survey Form',
+    github: 'https://github.com/OnomeVera/survey-form.git',
+    demo: 'http://survey-form-pink.vercel.app/'
+  },
+
+  {
     id: 6,
     image: IMG6,
     title: 'Responsive Image Gallery',
