@@ -13,8 +13,8 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Simple Calculator',
-    github: 'https://github.com/OnomeVera/Simple-Calculator.git',
-    demo: 'http://simple-calculator-tau-mauve.vercel.app/'
+    github: 'https://github.com/kenoict/Calculator-',
+    demo: 'https://calculator-lhwwg5d5i-kenoict.vercel.app/'
   },
 
   {
