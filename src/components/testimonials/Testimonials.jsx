@@ -32,7 +32,7 @@ const data = [
   {
     avatar: AVAR3,
     name: 'Funmi',
-    review: "Mafabi makes a lasting impression of energy and passion through a warm and receptive personality. He is a good team player and He is always willing to help others. he tackles all assignments with dedication and enthusiasm. He is very focused and has aptitude to learn new things. He is an asset to any employer and I endorse his for any endeavor she chooses to pursue."
+    review: "Mafabi makes a lasting impression of energy and passion through a warm and receptive personality. He is a good team player and He is always willing to help others. he tackles all assignments with dedication and enthusiasm. He is very focused and has aptitude to learn new things. He is an asset to any employer and I endorse him for any endeavor he chooses to pursue."
   },
 ]
 
